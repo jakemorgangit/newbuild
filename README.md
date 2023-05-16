@@ -75,7 +75,7 @@ Ninite Installer for the following:
 	 https://www.google.com/chrome/
 	
 - Oracle SQL Developer
-	- https://www.oracle.com/database/sqldeveloper/technologies/download/
+	 https://www.oracle.com/database/sqldeveloper/technologies/download/
 	
 - Oracle Client Libs
 	https://www.oracle.com/uk/database/technologies/instant-client.html
