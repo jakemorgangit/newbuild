@@ -25,6 +25,9 @@ Ninite Installer for the following:
 
 ---
 
+- Obsidian
+	 https://obsidian.md/download
+
 - SQL Server management studio
 	 https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
 	
